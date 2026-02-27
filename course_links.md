@@ -20,3 +20,17 @@ https://skillbuilder.aws/learning-plan/BGTH16YCTU/aws-generative-ai-developer-ad
 https://skillbuilder.aws/learning-plan/3HCD821CNZ/aws-simulearn-generative-ai-practitioner/BFKGA5VM8H
 
 https://skillbuilder.aws/category/exam-prep/ai-practitioner-AIF-C01
+
+Generative AI Developer Professional" exam prep sessions:
+S1 E1 | Exam Overview and FM Integrations
+https://www.youtube.com/watch?v=NtQLoV8WbEo
+
+S1 E2 | Implementation and Integration
+https://www.linkedin.com/events/7427431654769594369/
+
+S1 E3 | AI Safety, Security, and Governance:
+https://www.linkedin.com/events/7429961169710297088/
+
+S1 E4 | Operations and Troubleshooting
+https://www.linkedin.com/events/7432203857402916864/
+
